@@ -63,6 +63,7 @@ end
 
 # Added
 gem "simple_form"
+gem 'sassc'
 
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
