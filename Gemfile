@@ -61,6 +61,9 @@ group :development do
   # gem "spring"
 end
 
+# Added
+gem "simple_form"
+
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
