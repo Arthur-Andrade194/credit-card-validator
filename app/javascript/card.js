@@ -1,5 +1,5 @@
-window.onload = function () {
-
+export function card() {
+  
 const name = document.getElementById('name');
 const cardnumber = document.getElementById('cardnumber');
 const expirationdate = document.getElementById('expirationdate');
